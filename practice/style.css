@@ -1,0 +1,51 @@
+title {
+    font:Helvetica, 30px,sans-serif;
+    color:black
+}
+
+body {
+    font:normal 12px/1.6em Helvetica, sans-serif;
+	color:black;
+	margin:0;
+	padding:0;
+	background:#FFFFFF;
+}
+
+p {
+	margin:0;
+	padding:0;
+}
+
+#container {
+	margin:0 auto;
+	width:632px;
+	border-left:2px solid white;
+	border-right:2px solid white;
+}
+
+#header {
+	margin:left;
+    float:left;
+    float:right;
+    color:black;
+
+}
+
+#main-content {
+	margin:0 auto;
+}
+
+#main-image {
+	text-align:center;
+}
+
+#left-column {
+	width:300px;
+	padding:0 30px 30px;
+	float:left;
+}
+#logo {
+	margin-bottom:20px;
+	font:normal 30px Helvetica, serif;
+	color:black;
+}
